@@ -1,0 +1,52 @@
+.basic-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-1{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(186, 148, 124);
+    border: 10px solid rgb(164, 132, 112);
+    border-top: 6px solid rgb(164, 132, 112);;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 200%;
+    color: white;
+}
+
+.box-2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(186, 148, 124);
+    border: 10px solid rgb(164, 132, 112);
+    border-top: 6px solid rgb(164, 132, 112);;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 200%;
+    color: white;
+}
+
+.box-3{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(186, 148, 124);
+    border: 10px solid rgb(164, 132, 112);
+    border-top: 6px solid rgb(164, 132, 112);;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 200%;
+    color: white;
+}
+
+.box-4{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(186, 148, 124);
+    border: 10px solid rgb(164, 132, 112);
+    border-top: 6px solid rgb(164, 132, 112);;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 200%;
+    color: white;
+}
